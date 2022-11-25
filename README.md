@@ -1,5 +1,4 @@
 # SEPM
-LOCAL TRAIN TICKET BOOKING SYSTEM
 Local Train Ticket Booking System is basically concerned with the reservation of 
 local train tickets to the passengers of metropolitan cities. This Ticket Booking 
 system is completely coded in C Programming language. This system ensures the 

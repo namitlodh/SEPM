@@ -13,9 +13,3 @@ The computerization of booking a ticket will reduce a lot of time and also reduc
 the load of paperwork on administrative staff. These system is designed in such a 
 way that passenger can book a ticket as well as cancel the ticket of any train he 
 wants to take.
-
-The passengers are required to wait in the queue for booking the tickets. Booking ticket 
-via ticket counter after killing time on the ticket window, may sometimes lead to 
-missing up of the train as well. The person just need to login this application on their 
-devices which is working on android platform and then while sitting at their home, they 
-can book tickets for all the local trains which they wish to travel. 
